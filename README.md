@@ -5,7 +5,7 @@
 |         |         |                     
 | :----------- | :-------------- | 
 | LinkedIn | https://www.linkedin.com/in/gregorygauthier/ |
-| personal email | greg@gmgauthier.com |
+| personal email | gmgauthier@protonmail.com |
 | personal repos | https://repos.gmgauthier.com/gmgauthier |
 
 #### Bio
