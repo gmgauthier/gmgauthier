@@ -1,6 +1,8 @@
 # Greg Gauthier
 
-### Test Automation And QA Specialist
+### Test Engineer 
+
+I specialize in test automation and tooling
 
 |         |         |                     
 | :----------- | :-------------- | 
